@@ -1,2 +1,2 @@
-# sympy_codegen_examples
-Examples of code generation using Sympy
+# Sympy Code Generation Examples
+Examples of code generation using Sympy.
